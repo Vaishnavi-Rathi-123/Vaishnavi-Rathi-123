@@ -5,7 +5,7 @@
 💡 Motivated learner with a strong interest in problem-solving and real-world software development
 🚀 Focused on building skills through hands-on projects and continuous learning
 
-🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 Programming Languages: C, C++, Python, Java (Core)
 
@@ -15,7 +15,7 @@ Core Concepts: Data Structures & Algorithms, Object-Oriented Programming
 
 AI/ML: Machine Learning Fundamentals, Data Handling
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 Amazon Clone — Frontend project developed using HTML and CSS
 
@@ -27,7 +27,7 @@ C++ DSA Practice Programs — Implementations of core data structures and algori
 
 ➡️ Explore my repositories to view source code and project details.
 
-📈 Currently Learning
+## 📈 Currently Learning
 
 Advanced Data Structures in C++
 
@@ -35,7 +35,7 @@ Machine Learning Concepts
 
 Advanced Java
 
-🎯 Career Objectives
+## 🎯 Career Objectives
 
 To pursue a career as an AI/ML Engineer
 
@@ -43,28 +43,11 @@ To secure a merit-based internship focused on skill development and practical ex
 
 To contribute to impactful and meaningful software solutions
 
-🌱 Learning Philosophy
+## 🌱 Learning Philosophy
 
 I strongly believe in skill development, consistency, and project-based learning over paid certifications.
 
 ⭐ Thank you for visiting my GitHub profile. Feel free to explore my work!
 
-✅ Why this looks attractive
-
-Clean structure
-
-Professional tone
-
-Balanced use of emojis (not childish)
-
-Easy to scan for recruiters
-
-Honest & confident
-
-If you want, I can also:
-
-Add GitHub stats & badges
-
-Create a short version for bio
 
 Optimize this specifically for internship screenin
