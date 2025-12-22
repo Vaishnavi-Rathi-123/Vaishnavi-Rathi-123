@@ -6,11 +6,10 @@
 🚀 Focused on building skills through hands-on projects and continuous learning
 
 ## 🛠️ Skills & Technologies
-
-Programming Languages: C, C++, Python, Java (Core)
-Web Technologies: HTML5, CSS3
-Core Concepts: Data Structures & Algorithms, Object-Oriented Programming
-AI/ML: Machine Learning Fundamentals, Data Handling
+- **Programming Languages:** C, C++, Python, Java (Core)
+- **Web Technologies:** HTML5, CSS3
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
+- **AI/ML:** Machine Learning Fundamentals, Data Handling
 
 ## 🚀 Featured Projects
 
