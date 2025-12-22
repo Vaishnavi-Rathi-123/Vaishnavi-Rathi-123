@@ -44,10 +44,8 @@ To secure a merit-based internship focused on skill development and practical ex
 To contribute to impactful and meaningful software solutions
 
 ## 🌱 Learning Philosophy
-
 I strongly believe in skill development, consistency, and project-based learning over paid certifications.
 
 ⭐ Thank you for visiting my GitHub profile. Feel free to explore my work!
 
 
-Optimize this specifically for internship screenin
