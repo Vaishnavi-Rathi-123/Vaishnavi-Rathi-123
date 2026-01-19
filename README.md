@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 * **Programming Languages:** C, C++, Python, Java (Core)
 * **Web Technologies:** HTML5, CSS3
@@ -21,7 +21,7 @@
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
 * **C++ Intern — CodeAlpha (Remote)**
   Worked on OOP-based C++ tasks, mini-projects, debugging, and Git/GitHub version control. *Completed with LOR.*
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 * **C Programming Projects** — Programs using loops, arrays, pointers, functions, and file handling
 * **C++ OOP & DSA Projects** — Implementations using classes, inheritance, polymorphism, and core data structures
@@ -45,7 +45,7 @@
 
 ---
 
-## 📈 Currently Learning
+### 📈 Currently Learning
 
 * **Advanced Data Structures in C++**
 * **Machine Learning Concepts**
@@ -53,7 +53,7 @@
 
 ---
 
-## 🎯 Career Objectives
+### 🎯 Career Objectives
 
 * To pursue a career as an **AI/ML Engineer**
 * To secure a **merit-based internship** focused on skill development and practical exposure
@@ -61,7 +61,7 @@
 
 ---
 
-## 🌱 Learning Philosophy
+### 🌱 Learning Philosophy
 
 I strongly believe in **skill development, consistency, and project-based learning** over paid certifications
 
