@@ -2,7 +2,7 @@
 
 ---
 
-## 👩‍💻 Hi, I’m Vaishnavi Rathi, a second-year Diploma student in Artificial Intelligence and Machine Learning (AIML). I am passionate about problem-solving and enjoy building practical, real-world projects that strengthen my technical skills. I believe in learning through hands-on experience and continuously improving my knowledge through consistent practice.
+#### 👩‍💻 Hi, I’m Vaishnavi Rathi, a second-year Diploma student in Artificial Intelligence and Machine Learning (AIML). I am passionate about problem-solving and enjoy building practical, real-world projects that strengthen my technical skills. I believe in learning through hands-on experience and continuously improving my knowledge through consistent practice.
 
 ---
 
