@@ -8,16 +8,13 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 I am a Diploma student in **Artificial Intelligence & Machine Learning** at **Zeal Polytechnic, Pune**.
-
 I am passionate about building practical AI/ML applications and solving real-world problems using intelligent systems.
-
 I have hands-on experience in **Python, Machine Learning, Deep Learning, Generative AI, LLMs, RAG, GANs, Agentic AI, and Computer Vision**.
 
 Currently focusing on:
-
 * Advanced Machine Learning
 * Deep Learning
 * Generative AI & LLMs
@@ -29,49 +26,39 @@ Currently focusing on:
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
-#### 🐍 Programming Languages
-
+### 🐍 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
 </p>
-
 **Python · C++ · C · Java · SQL**
 
-#### 🤖 AI / Machine Learning
-
+### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,"/>
 </p>
-
 **Machine Learning · Deep Learning · Generative AI · LLMs · RAG · GANs · Agentic AI · Computer Vision**
-
 **Supervised Learning · Unsupervised Learning · Data Preprocessing · Model Evaluation**
 
-#### 📊 Data Science & ML Libraries
-
+### 📊 Data Science & ML Libraries
 **NumPy · Pandas · Scikit-learn · PyTorch · Matplotlib · Seaborn**
 
-#### 🔌 APIs & AI Tools
-
+### 🔌 APIs & AI Tools
 **Groq API · Hugging Face Inference API · YouTube API**
 
-#### 🛠️ Development & Tools
-
+### 🛠️ Development & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql"/>
 </p>
-
 **Git · GitHub · MySQL · Jupyter · VS Code**
 
-#### 🧠 Core Skills
-
+### 🧠 Core Skills
 **Data Structures & Algorithms · Prompt Engineering**
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 #### Junior Software Engineer (AI/ML Trainee)
 
@@ -129,19 +116,13 @@ Currently focusing on:
 ### 🎓 Education
 
 #### Diploma in Artificial Intelligence & Machine Learning
-
 **Zeal Polytechnic, Pune**
-
 `2024 – Present`
-
 **89.56% — Second Year**
 
 #### X — CBSE
-
 **Cygnet Public School (New), Narhe, Pune**
-
 `2023 – 2024`
-
 **80%**
 
 ---
@@ -160,20 +141,16 @@ Currently focusing on:
 
 ---
 
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-rathiii&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-rathiii&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
+![](https://github-readme-stats.shion.dev/api?username=vaishnavi-rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vaishnavi-rathiii&theme=dark&hide_border=false)<br/>
 ---
 
 ### 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-rathiii&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaishnavi-rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -221,11 +198,13 @@ Currently focusing on:
 
 ---
 
-### 🌟 Profile
+### 🔝 Top Contributed Repo
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=vaishnavi-rathiii&label=Profile%20Views&style=flat&color=blueviolet"/>
+<a href="https://github.com/vaishnavi-rathiii">
+  <img src="https://img.shields.io/badge/GitHub-vaishnavi--rathiii-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+</a>
 
 </p>
 
