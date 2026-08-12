@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,100:FF1493&height=220&section=header&text=Vaishnavi%20Rathi&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=E75480&center=true&vCenter=true&width=700&lines=AIML+Aspiring+Engineer;Python+%7C+Machine+Learning;Deep+Learning+%7C+Generative+AI;LLMs+%7C+Computer+Vision;Agentic+AI+%7C+RAG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=E75480&center=true&vCenter=true&width=700&lines=AIML+Aspiring+Engineer;Machine+Learning+%7C+Deep+Learning"/>
 
 </div>
 
@@ -32,13 +32,16 @@ Currently focusing on:
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
 </p>
+
 **Python · C++ · C · Java · SQL**
 
 ### 🤖 AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,"/>
 </p>
+
 **Machine Learning · Deep Learning · Generative AI · LLMs · RAG · GANs · Agentic AI · Computer Vision**
+
 **Supervised Learning · Unsupervised Learning · Data Preprocessing · Model Evaluation**
 
 ### 📊 Data Science & ML Libraries
@@ -49,9 +52,11 @@ Currently focusing on:
 
 ### 🛠️ Development & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
 </p>
-**Git · GitHub · MySQL · Jupyter · VS Code**
+
+**Git · GitHub · VS Code · MySQL · Jupyter**
 
 ### 🧠 Core Skills
 **Data Structures & Algorithms · Prompt Engineering**
@@ -88,8 +93,8 @@ Currently focusing on:
 
 **Python · Streamlit · Agno AI · Groq API · YouTube API**
 
-* Built an AI-powered YouTube Video Analyzer using **Agno AI Agents** and the **Groq API**.
-* Generated structured summaries and key insights from YouTube transcripts.
+- Built an AI-powered YouTube Video Analyzer using **Agno AI Agents** and **Groq API**.
+- Generated summaries and insights from YouTube transcripts.
 
 `08/2026`
 
@@ -97,8 +102,8 @@ Currently focusing on:
 
 **PyTorch · Deep Learning · Computer Vision · CelebA Dataset**
 
-* Implemented a **DCGAN using PyTorch** for realistic AI face generation.
-* Trained a DCGAN on the **CelebA dataset containing 202,599 images** to generate synthetic face images.
+- Built a **DCGAN using PyTorch** to generate synthetic face images.
+- Trained on the **CelebA dataset**.
 
 `07/2026`
 
@@ -106,10 +111,12 @@ Currently focusing on:
 
 **Gemma · Hugging Face Inference API · Generative AI · NLP**
 
-* Developed an AI-based **Email Summarization and Question-Answering system**.
-* Implemented the **Gemma LLM with Hugging Face Inference API** for NLP tasks.
+- Built an AI-powered **email summarization and Q&A system**.
+- Used **Gemma LLM** for NLP tasks.
 
 `06/2026`
+
+> 📌 **For projects, check out my pinned repositories below.**
 
 ---
 
@@ -144,13 +151,14 @@ Currently focusing on:
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=vaishnavi-rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vaishnavi-rathiii&theme=dark&hide_border=false)<br/>
+![center](https://github-readme-stats.shion.dev/api?username=vaishnavi-rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![center](https://streak-stats.demolab.com/?user=vaishnavi-rathiii&theme=dark&hide_border=false)<br/>
 ---
 
 ### 💻 Most Used Languages
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaishnavi-rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![center](https://github-readme-stats.shion.dev/api/top-langs/?username=vaishnavi-rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -166,6 +174,17 @@ Currently focusing on:
 
 ---
 
+### 🔝 Top Contributed Repo
+
+<p align="center">
+
+<a href="https://github.com/vaishnavi-rathiii">
+  <img src="https://img.shields.io/badge/GitHub-vaishnavi--rathiii-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+</a>
+
+</p>
+
+---
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -187,24 +206,24 @@ Currently focusing on:
 </a>
 
 <a href="https://leetcode.com/u/Vaishnavi-Rathi/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" height="48"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/rathivaishnavi91" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank"/>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48" height="48"/>
 </a>
 
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-
-<a href="https://github.com/vaishnavi-rathiii">
-  <img src="https://img.shields.io/badge/GitHub-vaishnavi--rathiii-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+<a href="https://x.com/_VaishnaviRathi" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="48" height="48"/>
 </a>
+
+<!-- <a href="https://yourportfolio.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <img src="https://cdn.simpleicons.org/internetarchive/FFFFFF" width="48" height="48"/>
+</a> -->
 
 </p>
 
